@@ -1,1 +1,35 @@
 /*  your css code here. If applicable */
+
+
+
+
+
+.main{
+    background-color:rgb(135, 206, 235);
+}
+#first{
+    color: white;
+    background-color: black;
+}
+/* #second{
+
+} */
+#third{
+    color: red;
+    
+}
+.uli{
+/*     padding-left: 10px; */
+    width: 50%;
+}
+#gray{
+	padding-left: 10px;
+    background-color: gray;
+}
+#pink{
+    background-color: pink;
+}
+#normal{
+    background-color: white;
+    font-size: 22px;
+}
