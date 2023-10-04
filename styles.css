@@ -9,7 +9,7 @@
 /* First paragraph: White text on a black background (use :first-child) */
 #first-child {
     background-color: black;
-    color: white;
+    color: rgb(255, 255, 255);
 }
 
 /* Second paragraph: Standard text color (use :nth-child(2)) */
@@ -33,13 +33,13 @@ ul {
 }
 
 .first_last{
-    background-color: white;
+    background-color: rgb(255, 255, 255);
     font-size: 22px;
 
 }
 .second_fourth{
     background-color: gray;
 }
-#middle{
+.middle{
     background-color: pink;
 }
