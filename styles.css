@@ -37,11 +37,12 @@ ul {
 
 .first_last{
     background-color: white;
+    font-size: 22px;
 
 }
 .second_fourth{
     background-color: gray;
 }
-.middle{
+#middle{
     background-color: pink;
 }
